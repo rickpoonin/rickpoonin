@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rickpoonin
-- 👀 I’m interested in <b>.Net Core</b> and <b>Java</b>
+- 👀 I’m interested in <b>Java</b> and <b>.Net Core</b>
 - 🌱 I’m currently learning SpringBoot + Eureka + Hystrix
 - 💞️ I’m looking to collaborate on Python web application projects
 - 📫 How to reach me rickpoonhk-at-outlook-dot-com
